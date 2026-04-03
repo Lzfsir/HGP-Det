@@ -1,11 +1,12 @@
 # HGP-Det
 A Lightweight Reinforcement Learning Framework for Efficient Object Detection
 
-##Install
+<P>Install</P>
+<pre><code>
 conda create -n rlf python=3.7 -y
 conda activate rlf
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 -c pytorch
-
+</code></pre>
 ##Dataset
 1.PASCAL VOC2007 + PASVAL VOC2012
 2.MS COCO2017
