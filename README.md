@@ -1,7 +1,7 @@
 # HGP-Det
 A Lightweight Reinforcement Learning Framework for Efficient Object Detection
 
-##<P>Install</P>
+##Install
 <pre><code>
 conda create -n rlf python=3.7 -y
 conda activate rlf
