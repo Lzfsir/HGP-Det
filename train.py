@@ -537,7 +537,7 @@ def main(args):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Hierarchical Object Detection with Deep Reinforcement Learning')
+    parser = argparse.ArgumentParser(description='RL')
     parser.add_argument('--gpu-devices', default='1', type=str, help='gpu device ids for CUDA_VISIBLE_DEVICES')
     parser.add_argument('--use_gpu', default=True, action='store_true')
     parser.add_argument('--EPISILO', type=int, default=0.9)
